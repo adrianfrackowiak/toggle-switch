@@ -1,0 +1,25 @@
+.toggle {
+  width: 3.25rem;
+  height: 1.5rem;
+  background: #dddddd;
+  border-radius: 50px;
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+
+  &--button {
+    height: 1.425rem;
+    width: 1.425rem;
+    border-radius: 50px;
+    background: #ececec;
+  }
+}
+
+.flex-jc-fs {
+  justify-content: flex-start;
+}
+
+.flex-jc-fe {
+  justify-content: flex-end;
+}

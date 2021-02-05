@@ -1,0 +1,60 @@
+.toggle {
+  width: 3.25rem;
+  height: 1.5rem;
+  background: #dddddd;
+  border-radius: 50px;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.toggle--button {
+  height: 1.425rem;
+  width: 1.425rem;
+  border-radius: 50px;
+  background: #ececec;
+}
+
+.flex-jc-fs {
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.flex-jc-fe {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+*,
+html {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #ececec;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 1rem;
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 1rem;
+  margin-right: 1rem;
+  color: #0e0e0e;
+}
+/*# sourceMappingURL=style.css.map */

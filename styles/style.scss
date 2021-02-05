@@ -1,0 +1,24 @@
+@import "toggle";
+
+*,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #ececec;
+
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+h2 {
+  font-weight: 200;
+  font-size: 1rem;
+  margin-right: 1rem;
+  color: #0e0e0e;
+}
